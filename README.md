@@ -36,7 +36,7 @@ Options:
 | Name            | Type       | Default          | Description                                                                      |
 |-----------------|------------|------------------|----------------------------------------------------------------------------------|
 | `widdershins`        | `Object`   | `{ codeSamples: true, user_templates: '../templates/widdershins' }` | Upstream widdershins config, see notes                                             |
-| `shins`   | `Object`   | `{inline: true, logo: './assets/logo/...', 'logo-url': '...'}` | Upstream shins config, see notes                            |
+| `shins`   | `Object`   | `shins: { inline: true, logo: './assets/logo/logo.png', 'logo-url': app.config.publicUrl },` | Upstream shins config, see notes                            |
 | `log`           | `function` | `console.log`    | Logging function for any output                                                  |
 
 
