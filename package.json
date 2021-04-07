@@ -1,0 +1,30 @@
+{
+  "name": "@doop/docs",
+  "version": "0.0.1",
+  "description": "Doop documentation module",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-docs.git"
+  },
+  "keywords": [
+    "Doop",
+    "Vue"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MomsFriendlyDevCo/doop-docs/issues"
+  },
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-docs#readme",
+  "dependencies": {
+    "globby": "^11.0.3",
+    "lodash": "^4.17.21",
+    "pluralize": "^8.0.0",
+    "shins": "^2.6.0",
+    "widdershins": "^4.0.1"
+  }
+}
