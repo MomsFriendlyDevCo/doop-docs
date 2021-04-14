@@ -25,6 +25,6 @@
     "lodash": "^4.17.21",
     "pluralize": "^8.0.0",
     "shins": "^2.6.0",
-    "widdershins": "^4.0.1"
+    "widdershins": "git+https://github.com/MomsFriendlyDevCo/widdershins.git#feat-multiresponse"
   }
 }
