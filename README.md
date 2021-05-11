@@ -59,8 +59,8 @@ These types may be used in `@returns {Type}` and allow association of a response
 | `File`          | `application/octet-stream` | `string` | `binary` |
 | `PDF`           | `application/pdf` | `string` | `binary` |
 | `GIF`           | `image/gif` | `string` | `base64` |
-| `JPEG`          | `image/gif` | `string` | `base64` |
-| `PNG`           | `image/gif` | `string` | `base64` |
+| `JPEG`          | `image/jpeg` | `string` | `base64` |
+| `PNG`           | `image/png` | `string` | `base64` |
 | `String`        | `text/plain` | `string` | |
 | `HTML`          | `text/html` | `string` | `html` |
 | `Date`          | `text/plain` | `string` | `date` |
