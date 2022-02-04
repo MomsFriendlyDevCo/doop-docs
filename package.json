@@ -23,5 +23,8 @@
     "pluralize": "^8.0.0",
     "shins": "^2.6.0",
     "widdershins": "git+https://github.com/MomsFriendlyDevCo/widdershins.git#feat-multiresponse"
-  }
+  },
+  "workspaces": [
+    "../*"
+  ]
 }
