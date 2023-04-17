@@ -1,6 +1,6 @@
 {
   "name": "@doop/docs",
-  "version": "0.0.9",
+	"version": "0.0.10",
   "description": "Doop documentation module",
   "main": "./lib/index.js",
   "repository": {
