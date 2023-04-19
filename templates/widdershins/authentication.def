@@ -1,5 +1,5 @@
 <aside class="warning">
-To perform this operation, you must be authenticated by means of one of the following methods:
+To perform this operation, you must be authenticated by means of one of the following methods (and possibly obtain the appropriate scopes):
 {{= data.utils.getAuthenticationStr(data) }}
 </aside>
 
